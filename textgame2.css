@@ -1,0 +1,29 @@
+img {
+	border: 3px solid black;
+	height: 50%;
+	width: 100%;
+}
+
+body {
+	font-family: Berkshire Swash;
+	color: white;
+	background-image: url("background.png");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-bottom: 5%;
+}
+
+.caption{
+	color: black;
+}
+
+h1 {
+	background: rgba(0, 0, 0, 0.2);
+	font-size: 5em;
+}
+
+.btn {
+	border: 1px solid black;
+}
